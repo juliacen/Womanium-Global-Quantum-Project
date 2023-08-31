@@ -1,2 +1,2 @@
 # Womanium-Global-Quantum-Project
-Global Education Project with QWorld
+This is a collaboration with QWorld to create various quantum computing educational Jupyter notebooks.
